@@ -1,35 +1,26 @@
 # 🎲 Spatulox JDR
 
-Bienvenue sur l'organisation **spatulox-jdr**, consacrée au **jeu de rôle (JDR)**.
-Nous écrivons du contenu de jeu et nous développons les outils qui servent à le jouer.
+Personal workspace for my **tabletop role-playing games (TTRPG / JDR)**.
+
+> This organization is for my own use. It is not a public project and does not accept contributions.
 
 ---
 
-## 📜 Ce que nous faisons
+## 📜 What's in here
 
-### Contenu de jeu
-- **Univers** : des mondes, leur histoire, leurs factions et leurs lieux.
-- **Scénarios et campagnes** : des aventures prêtes à jouer, en one-shot ou sur plusieurs séances.
-- **Règles maison** : des adaptations, des variantes et des systèmes originaux.
+### 🎭 Scenarios I play in
+Notes, character sheets and session logs for campaigns and one-shots I join as a player.
 
-### Outils
-- **Logiciels d'aide au jeu** : gestion des fiches de personnage, lancers de dés, suivi des parties…
-- **Automatisation** : bots et utilitaires pour les tables, en ligne ou en présentiel.
+### ✍️ Scenarios I write
+Scenarios, campaigns, worlds and house rules I create, mostly to run as a game master.
 
----
-
-## 🗂️ Dépôts
-
-| Dépôt | Type | Description |
-|-------|------|-------------|
-| _à venir_ | — | Les premiers projets arrivent bientôt. |
+### 🛠️ Personal tools
+Small tools I build for my own games: character sheet helpers, dice rollers, session tracking, bots, and so on.
 
 ---
 
-## 🤝 Contribuer
+## 🗂️ Repositories
 
-Vous avez une idée, une correction ou une proposition ?
-- Ouvrez une **issue** sur le dépôt concerné.
-- Ou proposez directement une **pull request**.
-
-Bonnes parties ! 🐉
+| Repository | Category | Description |
+|------------|----------|-------------|
+| _none yet_ | — | — |

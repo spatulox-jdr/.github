@@ -1,7 +1,5 @@
-# .github — spatulox-jdr
+# Organization profile — spatulox-jdr
 
-Ce dépôt spécial contient la page de profil de l'organisation [spatulox-jdr](https://github.com/spatulox-jdr).
+Holds the profile of the [spatulox-jdr](https://github.com/spatulox-jdr) organization.
 
-- [`profile/README.md`](profile/README.md) : le texte affiché sur la page publique de l'organisation.
-
-Vous pourrez aussi y ajouter plus tard les fichiers partagés par défaut avec tous les dépôts de l'organisation (modèles d'issues, `CONTRIBUTING.md`, etc.).
+- [`profile/README.md`](profile/README.md) — the overview shown on the organization page.
