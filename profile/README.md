@@ -12,15 +12,7 @@ Personal workspace for my **tabletop role-playing games (TTRPG / JDR)**.
 Notes, character sheets and session logs for campaigns and one-shots I join as a player.
 
 ### ✍️ Scenarios I write
-Scenarios, campaigns, worlds and house rules I create, mostly to run as a game master.
+Right now, nothing, buuuuuuuuut: Scenarios, campaigns, worlds and house rules I create, mostly to run as a game master.
 
 ### 🛠️ Personal tools
 Small tools I build for my own games: character sheet helpers, dice rollers, session tracking, bots, and so on.
-
----
-
-## 🗂️ Repositories
-
-| Repository | Category | Description |
-|------------|----------|-------------|
-| _none yet_ | — | — |
